@@ -1,6 +1,6 @@
 # OSS Projects
 
-## [RedPen](https://redpen.cc/)
+## [RedPen](http://redpen.cc/)
 
 RedPen is a proofreading tool to help writers or programmers who write technical documents or manuals that need to adhere to a writing standard.
 
